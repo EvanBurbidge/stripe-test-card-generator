@@ -1,0 +1,16 @@
+{
+  "american": {
+    "withAuth": {
+
+    },
+    "noAuth": {}
+  },
+  "international": {
+    "withAuth": {
+
+    },
+    "noAuth": {
+      
+    }
+  }
+}
